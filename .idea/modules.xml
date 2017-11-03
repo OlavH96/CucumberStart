@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CucumberStart.iml" filepath="$PROJECT_DIR$/.idea/CucumberStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gatling_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Gatling_main.iml" group="Gatling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gatling_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Gatling_test.iml" group="Gatling" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Password_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Password_main.iml" group="Password" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Password_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Password_test.iml" group="Password" />
+    </modules>
+  </component>
+</project>

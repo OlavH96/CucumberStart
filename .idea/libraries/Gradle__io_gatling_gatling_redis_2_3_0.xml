@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.gatling:gatling-redis:2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-redis/2.3.0/a6553fafb1a5491f8073d60a2b9fbf250d4eb9a4/gatling-redis-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-redis/2.3.0/d8aa907a94de1571374742a4e08355c6b46a0695/gatling-redis-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
